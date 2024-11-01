@@ -29,7 +29,7 @@ $ conda install -c conda-forge flask-wtf
 
 # Retrieve our project and get it running
 ```
-$ git clone https://github.com/mhendri/buyrentsell
+$ git clone https://github.com/isaacandy/buyrentsell
 $ cd buyrentsell
 ```
 
